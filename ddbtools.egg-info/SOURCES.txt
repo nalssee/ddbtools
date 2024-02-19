@@ -1,0 +1,7 @@
+setup.py
+ddbtools.egg-info/PKG-INFO
+ddbtools.egg-info/SOURCES.txt
+ddbtools.egg-info/dependency_links.txt
+ddbtools.egg-info/top_level.txt
+tests/__init__.py
+tests/test_basic.py
